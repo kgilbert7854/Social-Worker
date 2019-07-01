@@ -108,6 +108,11 @@ ul {
 }
 /* Basic */
 
+
+
+html {
+  box-sizing: border-box;
+}
 *,
 *:before,
 *:after {
@@ -363,6 +368,7 @@ footer {
 footer h2 {
   margin-top: 20px;
    font-size: 2.5rem;
+
    color: orangered;
  }
 
@@ -403,8 +409,5 @@ footer p {
   align-items: center;
   justify-content: space-between;
 }
-
-/* Less */
-
 
 
