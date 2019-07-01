@@ -1,3 +1,9 @@
 function submit1() {
-    alert("The form was submitted");
+   alert("Thank You! Your form was submitted");
   }
+
+// cont btn= 
+//   document.getElementById("myBtn").addEventListener("click", function() {
+//     alert(The button was clicked!");
+//   });
+
