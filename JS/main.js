@@ -3,10 +3,10 @@ let i = 0;
 let images = [];
 let time = 3000;
 
-images[0] = '/IMAGES/schoolkids_in_class.jpg';
-images[1] = '/IMAGES/world-map.jpg';
-images[2] = '/IMAGES/school-children.jpg';
-images[3] = '/IMAGES/school-books.jpg';
+images[0] = './IMAGES/schoolkids_in_class.jpg';
+images[1] = './IMAGES/world-map.jpg';
+images[2] = './IMAGES/school-children.jpg';
+images[3] = './IMAGES/school-books.jpg';
 
 function changeImg(){
     document.slide.src = images[i];
